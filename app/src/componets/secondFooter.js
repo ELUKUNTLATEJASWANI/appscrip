@@ -1,4 +1,4 @@
-// src/SecondFooter.js
+
 import React from 'react';
 import './secondFooter.css';
 

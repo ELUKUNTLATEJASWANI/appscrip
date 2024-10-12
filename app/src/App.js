@@ -98,7 +98,6 @@ function App() {
             <label htmlFor="pattern">PATTERN</label>
           
             <select id="pattern">
-              {/* Add your options here */}
               <option>Unselect all</option>
             </select>
             
